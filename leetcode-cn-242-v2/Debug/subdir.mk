@@ -4,12 +4,15 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
+../solution.c \
 ../valid-anagram-242.c 
 
 OBJS += \
+./solution.o \
 ./valid-anagram-242.o 
 
 C_DEPS += \
+./solution.d \
 ./valid-anagram-242.d 
 
 

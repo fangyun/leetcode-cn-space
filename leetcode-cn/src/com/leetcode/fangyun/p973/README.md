@@ -11,3 +11,6 @@
 
 # 知识点
 1. Double.compare把Double转换成LongBits，然后比较，输出int。
+
+# 任务
+- [ ] 学习并掌握快排。
